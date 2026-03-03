@@ -1,23 +1,34 @@
-# 📊 Dashboard de KPI – Controle de Impressão
+# 📊 Portfólio Power BI – Caio Lopes
 
-## 🎯 Objetivo
-Analisar a performance operacional do setor de impressão, monitorando volume e eficiência.
+Bem-vindo ao meu repositório de projetos em Power BI.
 
-## 📈 Indicadores Desenvolvidos
-- Total de impressões por período
-- Volume por setor
-- Tendência mensal
-- Indicadores de eficiência
+Este espaço reúne dashboards desenvolvidos com foco em Business Intelligence, análise de indicadores (KPIs) e apoio à tomada de decisão.
+
+---
+
+## 🚀 Projetos Disponíveis
+
+### 📈 KPI de Impressão
+Dashboard para monitoramento de volume, eficiência e indicadores operacionais.
+
+🔗 Acesse o projeto: [KPI-Impressao](./KPI-Impressao)
+
+---
 
 ## 🛠 Tecnologias Utilizadas
+
 - Power BI
-- DAX
 - Modelagem de Dados
 - Power Query
+- Coleta de dados no PrintServer NDD
+- Importação de dados via Excel
 
-## 🖼 Visual do Dashboard
-![Dashboard Geral](Dash-Geral-KPI-Impressão.png)
-![Dashboard Custo](Dash-Custo-KPI-Impressão.png)
+---
 
-## 💡 Insight
-O dashboard permite identificar picos de consumo e oportunidades de otimização de custos.
+## 🎯 Objetivo Profissional
+
+Atuar como Analista de Dados Júnior, aplicando Business Intelligence para transformar dados em decisões estratégicas.
+
+---
+
+📌 Conecte-se comigo no LinkedIn:
