@@ -11,7 +11,7 @@ Este espaço reúne dashboards desenvolvidos com foco em Business Intelligence, 
 ### 📈 KPI de Impressão
 Dashboard para monitoramento de volume, eficiência e indicadores operacionais.
 
-🔗 Acesse o projeto: [KPI-Impressao](./KPI-Impressao)
+🔗 Acesse o projeto: [KPI-Impressao](./KPI-Impressão)
 
 ---
 
