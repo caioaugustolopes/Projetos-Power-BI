@@ -16,8 +16,8 @@ Analisar a performance operacional do setor de impressão, monitorando volume e 
 - Power Query
 
 ## 🖼 Visual do Dashboard
-![Dashboard Geral](Dash-Geral-KPI-Impressão)
-![Dashboard Custo](Dash-Custo-KPI-Impressão)
+![Dashboard Geral](Dash-Geral-KPI-Impressão.png)
+![Dashboard Custo](Dash-Custo-KPI-Impressão.png)
 
 ## 💡 Insight
 O dashboard permite identificar picos de consumo e oportunidades de otimização de custos.
