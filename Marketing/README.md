@@ -76,16 +76,16 @@ Análise comparativa entre países:
 ## 🖼 Visual do Projeto
 
 ### Visão Cliente
-![Visão Cliente](coloque-aqui-o-nome-do-arquivo.png)
+![Visão Cliente](Dash-MKT-Cliente.png)
 
 ### Visão Comportamento
-![Visão Comportamento](coloque-aqui-o-nome-do-arquivo.png)
+![Visão Comportamento](Dash-MKT-Comportamento.png)
 
 ### Visão Campanhas
-![Visão Campanhas](coloque-aqui-o-nome-do-arquivo.png)
+![Visão Campanhas](Dash-MKT-Campanhas.png)
 
 ### Visão PDV
-![Visão PDV](coloque-aqui-o-nome-do-arquivo.png)
+![Visão PDV](Dash-MKT-PDV.png)
 
 ---
 
