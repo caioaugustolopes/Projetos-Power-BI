@@ -18,7 +18,7 @@ O dashboard foi desenvolvido para transformar dados comerciais em insights estra
 
 ## 📌 Visões do Dashboard
 
-### Índice
+### 🧾 Índice
 
 ![Índice](comercial-indice.png)
 
