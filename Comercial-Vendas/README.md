@@ -20,7 +20,7 @@ O dashboard foi desenvolvido para transformar dados comerciais em insights estra
 
 ### Índice
 
-![Índice](Dash comercial indice.png)
+![Índice](comercial-indice.png)
 
 ### 📈 Visão Geral de Vendas
 
@@ -31,7 +31,7 @@ Apresenta uma visão consolidada do desempenho comercial:
 - Comparação de fabricantes com maior faturamento
 - Identificação dos principais responsáveis pelo resultado comercial
 
-  ![Visão Geral de Vendas](Dash-analise-de-vendas.png)
+  ![Visão Geral de Vendas](comercial-analise-vendas.png)
 
 ---
 
@@ -46,7 +46,8 @@ Exemplo de insights encontrados:
 
 Essa análise permite compreender quais fatores impulsionam melhores resultados comerciais.
 
-![Visão Influenciadores de Vendas](Dash-.png)
+  ![Visão Análise Principais Influenciadores](comercial-principais-influenciadores.png)
+
 ---
 
 ### 🏬 Comparação de PDVs por Categoria
@@ -56,6 +57,8 @@ Análise do desempenho de diferentes lojas:
 - Comparação do valor total vendido por categoria
 - Identificação de diferenças de performance entre PDVs
 - Visualização de oportunidades de melhoria em determinadas lojas
+  
+![Visão Comparação de PDVs por Categoria](comercial-faixa-vendas-pdv.png)
 
 ---
 
@@ -66,6 +69,10 @@ Mapa interativo mostrando:
 - desempenho de vendedores por região
 - distribuição geográfica das vendas
 - identificação de áreas com maior potencial comercial
+- o mapa está com filtro ativo para valor total de venda com valor de R$ 30.000,00, para melhorar o visual.
+
+  
+![Visão Performance de Vendedores](comercial-performance-vendedores.png)
 
 ---
 
