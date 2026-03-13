@@ -20,7 +20,7 @@ O dashboard foi desenvolvido para transformar dados comerciais em insights estra
 
 ### Índice
 
-![Índice](Dash-comercial-indice.png)
+![Índice](Dash comercial indice.png)
 
 ### 📈 Visão Geral de Vendas
 
