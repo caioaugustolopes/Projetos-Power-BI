@@ -45,7 +45,7 @@ Principais análises:
 - Disponibilidade para horas extras
 
 🔗 Acesse o projeto:  
-[Analise-RH](./RH)
+[RH](./RH)
 
 ---
 
@@ -60,7 +60,7 @@ Principais análises:
 - Performance por PDV
 
 🔗 Acesse o projeto:  
-[Marketing-Clientes](./Marketing)
+[Marketing](./Marketing)
 
 ---
 
